@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Hero } from '../Hero';
-import { HEROES } from '../mock-heroes'
+import { HEROES } from '../mock-heroes';
 
 @Component({
   selector: 'app-heroes',
